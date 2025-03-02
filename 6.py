@@ -1,0 +1,5 @@
+K=int(input())
+N=int(input())
+R=int(input())
+n=str(K*R)
+print(n*N)
